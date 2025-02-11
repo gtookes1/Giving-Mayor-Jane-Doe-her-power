@@ -16,8 +16,11 @@
 
 
 
-
-
+<p align="center">
+  <h2>Summary</h2>
+  ____________________________________________________________________  
+  Similar to the need to install AD on the computer, just because we give Jane Doe the title of "Mayor" or "Admin" doesn't mean she has privileges beyond the title; it has to be created. This shows how to make an account an Admin; in this case, it's Mayor Jane Doe. Once done, the user will be able to create users and manage them. Look at the video below for the demonstration of this...
+</p>
 
 
 
