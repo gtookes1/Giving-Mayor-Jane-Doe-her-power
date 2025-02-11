@@ -14,8 +14,8 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
  - Microsoft Azure (Virtual Machines/Computer)
  - Remote Desktop
- - 
- - PowerShell 
+ - Powershell
+ - Capcut 
 
 <h3>&#9670; Operating Systems Used</h3>
 
