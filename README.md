@@ -4,6 +4,7 @@ Similar to the need of installing AD on the computer, just because we give Jane 
 
  <h1 align="center">"Giving Mayor Jane Doe Her power"</h1> 
 
+![image](https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e)
 
 
 
