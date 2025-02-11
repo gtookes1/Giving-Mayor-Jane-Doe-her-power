@@ -5,15 +5,6 @@
   <img src="https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e" alt="image">
 </p>
 
-
-<p align="center">
-  <h2>Summary</h2>
-
-
-
-
-
-
 <h2>Summary</h2
 ____________________________________________________________________  
   
