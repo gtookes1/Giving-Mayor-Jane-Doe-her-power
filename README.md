@@ -11,7 +11,7 @@
   
  
  ____________________________________________________________________  
-  This project follows the project: "New Sheriff In Town."  In this project, we give the domain controller, also known as "Sheriff DC" the chance to run Active Directory or "AD." The gag is that AD...
+  Similar to the need to install AD on the computer, just because we give Jane Doe the title of "Mayor" or "Admin" doesn't mean she has privileges beyond the title; it has to be created. This shows how to make an account an Admin; in this case, it's Mayor Jane Doe. Once done, the user will be able to create users and manage them. Look at the video below for the demonstration of this...
 </p>
 
 
