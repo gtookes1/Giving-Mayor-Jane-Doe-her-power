@@ -6,8 +6,9 @@ Similar to the need of installing AD on the computer, just because we give Jane 
 
 ![image](https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e)
 
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e" alt="image">
+</p>
 
 
 
