@@ -6,8 +6,11 @@
 </p>
 
 
-
-
+<p align="center">
+  <h2>Summary</h2>
+  ____________________________________________________________________  
+  This project follows the project: "New Sheriff In Town."  In this project, we give the domain controller, also known as "Sheriff DC" the chance to run Active Directory or "AD." The gag is that AD...
+</p>
 
 <h2>Summary</h2
 ____________________________________________________________________  
