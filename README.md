@@ -19,8 +19,17 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
 <h3>&#9670; Operating Systems Used</h3>
 
+
+
  - Windows Server 2022
 
 
 <h4 align="center">Deployment and Configuration Steps</h4>
 ______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
