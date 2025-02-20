@@ -13,8 +13,10 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
 **➔**   <div style="display: flex; align-items: center;">
   <span>➔</span>
-  <span style="margin-left: 5px;">[Your text here](https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/raw/refs/heads/main/Jane%20DoE%20%233.mp4)</span>
+  <span style="margin-left: 5px;">(https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/raw/refs/heads/main/Jane%20DoE%20%233.mp4)</span>
 </div>
+
+
 <h3>&#9670; Environments and Technologies Used</h3> 
 
  - Microsoft Azure (Virtual Machines/Computer)
