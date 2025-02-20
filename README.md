@@ -12,7 +12,7 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
 
 <p align="left">
-  <img src="[https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e](https://github.com/user-attachments/assets/7b58dcd1-6625-497c-9ced-f39059119cd0)" alt="image" width="150" height="150">
+  <img src="[https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e)" alt="image" width="150" height="150">
 </p>
 
 
