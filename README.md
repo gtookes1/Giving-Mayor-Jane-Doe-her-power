@@ -11,16 +11,8 @@ ____________________________________________________________________
 Similar to the need to install AD on the computer, just because we give Jane Doe the title of "Mayor" or "Admin" doesn't mean she has privileges beyond the title; it has to be created. This shows how to make an account an Admin; in this case, it's Mayor Jane Doe. Once done, the user will be able to create users and manage them. Click the link below for a walk through of this process...  
 
 
-<p align="left">
-  <img src="[https://github.com/user-attachments/assets/aab6bb94-4eb7-40e0-ab0a-acf68ff6fb81]" alt="image" width="100" height="100">
-</p>
 
-
-<p align="left">
-  <img src="[https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/blob/main/image.gif?raw=true]" alt="image" width="100" height="100">
-</p>
-
-
+Use this bold arrow: **➔**
 
 <h3>&#9670; Environments and Technologies Used</h3> 
 
