@@ -31,5 +31,3 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
  - Windows Server 2022
 
 
-
-https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/raw/refs/heads/main/Jane%20DoE%20%233.mp4
