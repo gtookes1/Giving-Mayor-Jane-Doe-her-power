@@ -28,8 +28,7 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 ______________________________________________________________________________________________________________________
 
 
+I spent so much time on this vido that
 
 
-
-
-
+https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/raw/refs/heads/main/Jane%20DoE%20%233.mp4
