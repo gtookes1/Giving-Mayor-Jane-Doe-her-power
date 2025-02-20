@@ -15,7 +15,7 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 <h1 align="center">"Giving Mayor Jane Doe Her power"</h1>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e" alt="image" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/f6d55893-cd4d-4096-b8d0-510e1b83210e" alt="image" width="150" height="150">
 </p>
 
 
