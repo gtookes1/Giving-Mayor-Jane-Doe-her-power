@@ -8,7 +8,7 @@
 <h2>Summary</h2
 ____________________________________________________________________  
   
-Similar to the need to install AD on the computer, just because we give Jane Doe the title of "Mayor" or "Admin" doesn't mean she has privileges beyond the title; it has to be created. This shows how to make an account an Admin; in this case, it's Mayor Jane Doe. Once done, the user will be able to create users and manage them. Look at the video below for the demonstration of this...
+Similar to the need to install AD on the computer, just because we give Jane Doe the title of "Mayor" or "Admin" doesn't mean she has privileges beyond the title; it has to be created. This shows how to make an account an Admin; in this case, it's Mayor Jane Doe. Once done, the user will be able to create users and manage them. Click the link for a walk through of this process...  
 
 <h3>&#9670; Environments and Technologies Used</h3> 
 
@@ -23,12 +23,6 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
  - Windows Server 2022
 
-
-<h4 align="center">Deployment and Configuration Steps</h4>
-______________________________________________________________________________________________________________________
-
-
-I spent so much time on this vido that
 
 
 https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/raw/refs/heads/main/Jane%20DoE%20%233.mp4
