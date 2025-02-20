@@ -17,7 +17,7 @@ Similar to the need to install AD on the computer, just because we give Jane Doe
 
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/correct-image-url" alt="image" width="100" height="100">
+  <img src="[https://github.com/gtookes1/Giving-Mayor-Jane-Doe-her-power/blob/main/image.gif?raw=true]" alt="image" width="100" height="100">
 </p>
 
 
